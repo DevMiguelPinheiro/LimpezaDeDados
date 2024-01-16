@@ -1,0 +1,21 @@
+ID,ChaveSituacao,ClassRisco,CatCliente,Pagamento,Idade,Gênero,Estado Civil,Categoria,CatVIP,Risco
+1,32FC,Ccinza,Basic-Alpha,1,32,F,C,Basic,Alpha,C
+2,25MV,AAmarelo,Black,1,25,M,V,Black,Comum,A
+3,27MV,B-Amarelo,Basic-Beta,1,27,M,V,Basic,Beta,B-
+4,26FD,BAmarelo,Black,0,26,F,D,Black,Comum,B
+5,26FD,C-Amarelo,Black,0,26,F,D,Black,Comum,C-
+6,28FC,C-Amarelo,Platinum-Alpha,0,28,F,C,Platinum,Alpha,C-
+7,27MD,A-Verde,Platinum-Beta,1,27,M,D,Platinum,Beta,A-
+8,31MD,C-Cinza,Basic,0,31,M,D,Basic,Comum,C-
+9,28FS,A-Cinza,Black,1,28,F,S,Black,Comum,A-
+10,31MV,C+Amarelo,Platinum,1,31,M,V,Platinum,Comum,C+
+11,29MV,AAmarelo,Basic,1,29,M,V,Basic,Comum,A
+12,30FC,C-Cinza,Basic-Beta,0,30,F,C,Basic,Beta,C-
+13,28FC,Bverde,Basic,0,28,F,C,Basic,Comum,B
+14,26MC,A-Verde,Platinum,1,26,M,C,Platinum,Comum,A-
+15,26MC,Croxo,Black-Alpha,1,26,M,C,Black,Alpha,C
+16,27MC,B-Roxo,Platinum,1,27,M,C,Platinum,Comum,B-
+17,25FD,A-Verde,Black,1,25,F,D,Black,Comum,A-
+18,28MD,C-Cinza,Black-Beta,0,28,M,D,Black,Beta,C-
+19,27MD,CAmarelo,Platinum-Alpha,1,27,M,D,Platinum,Alpha,C
+20,25FV,AAmarelo,Platinum,1,25,F,V,Platinum,Comum,A
